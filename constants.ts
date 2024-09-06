@@ -5,3 +5,9 @@ export const BUILD_TYPES = {
     local: 'local',
     cloud: 'cloud'
 };
+
+
+// environment variable names
+export const ENV_VARIABLE_NAMES = {
+    
+};
