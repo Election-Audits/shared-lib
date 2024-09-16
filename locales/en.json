@@ -1,5 +1,11 @@
 {
     "account_exists": "Account already exists, please login",
+    "account_not_exist": "Account doesn't exist. Please sign up",
+    "expired_code": "The one time passcode has expired",
     "not_approved_signup": "Sorry, you're not approved for signup. Contact admin",
-    "otp_message": "Hello, here is your one time passcode: "
+    "otp_message": "Hello, here is your one time passcode: ",
+    "request_body_error": "Error in request body field %s",
+    "something_went_wrong": "Sorry, something went wrong. Please try again later",
+    "wrong_code": "Wrong code",
+    "wrong_email_password": "Wrong email address or password"
 }
