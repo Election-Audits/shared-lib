@@ -8,6 +8,7 @@ export const BUILD_TYPES = {
 
 
 // environment variable names
-export const ENV_VARIABLE_NAMES = {
-    
-};
+//export const ENV_VARIABLE_NAMES = {};
+
+// a placeholder in translation strings to be replaced with specific value
+export const REPLACE_STRING = "__replace__";
