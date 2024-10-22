@@ -1,15 +1,21 @@
 {
     "account_exists": "Account already exists, please login",
     "account_not_exist": "Account doesn't exist. Please sign up",
+    "duplicates_in_input": "The following data is duplicated in the input: ",
     "entity_already_exists": "entity already exists",
+    "entity_not_exist": "entity does not exist",
     "expired_code": "The one time passcode has expired",
+    "illegal_file_extension": "Illegal file extension. Check allowed types",
+    "missing_columns": "Ensure headers start at cell A3. Missing the columns: ",
+    "no_elect_level_permission": "No 'electoral level' permission to perform this action",
     "no_role_permission": "You do not have the right role permission to perform this action",
     "no_scope_permission": "You do not have the right scope permission to perform this action",
     "not_approved_signup": "Sorry, you're not approved for signup. Contact admin",
     "otp_message": "Hello, here is your one time passcode: ",
     "parent_area_not_exist": "The parent electoral area containing this does not exist",
-    "request_body_error": "Error in request body field %s",
+    "request_body_error": "Error in request body field: ",
     "something_went_wrong": "Sorry, something went wrong. Please try again later",
+    "user_not_subagent": "This user is not your sub polling agent",
     "wrong_code": "Wrong code",
     "wrong_email_password": "Wrong email address or password"
 }
